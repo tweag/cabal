@@ -21,8 +21,6 @@ idna==2.10
     # via requests
 imagesize==1.2.0
     # via sphinx
-importlib-metadata==4.11.4
-    # via sphinx
 jinja2==2.11.3
     # via sphinx
 jsonpointer==2.1
@@ -41,7 +39,7 @@ pytz==2021.3
     # via babel
 pyyaml==5.4.1
     # via sphinx-jsonschema
-requests==2.26.0
+requests==2.31.0
     # via
     #   sphinx
     #   sphinx-jsonschema
@@ -72,5 +70,3 @@ sphinxnotes-strike==1.1
     # via -r requirements.in
 urllib3==1.26.7
     # via requests
-zipp==3.8.0
-    # via importlib-metadata
